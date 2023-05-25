@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RealSleepGREEN.png">
+<SubTexture name="30000" x="0" y="0" width="2440" height="1119" frameX="0" frameY="-1" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="20000" x="0" y="1119" width="2440" height="1119" frameX="0" frameY="-1" frameWidth="2400" frameHeight="1080" />
+<SubTexture name="idle0000" x="0" y="2238" width="2440" height="1119" frameX="0" frameY="-1" frameWidth="2400" frameHeight="1080" />
+</TextureAtlas>

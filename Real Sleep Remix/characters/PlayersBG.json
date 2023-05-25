@@ -1,0 +1,62 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "idle",
+			"loop": true,
+			"name": "marksing"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "as",
+			"loop": true,
+			"name": "adamsing"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"fps": 10,
+			"anim": "js",
+			"loop": true,
+			"name": "jonahsing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phase2players",
+	"position": [
+		-270,
+		-130
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

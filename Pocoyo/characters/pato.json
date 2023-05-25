@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				301
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pato loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				295,
+				538
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				335,
+				539
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				263,
+				665
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				262,
+				539
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				341,
+				659
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "culo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				216,
+				361
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "pato death",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				157,
+				335
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "pato death loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				207,
+				380
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "pato death confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pato",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pato",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		40,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

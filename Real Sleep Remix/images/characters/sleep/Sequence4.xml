@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sequence4.png">
+<SubTexture name="10000" x="0" y="0" width="366" height="69" frameX="-35" frameY="-78" frameWidth="1000" frameHeight="600" />
+<SubTexture name="20000" x="0" y="69" width="383" height="103" frameX="-24" frameY="-78" frameWidth="1000" frameHeight="600" />
+<SubTexture name="30000" x="0" y="172" width="383" height="190" frameX="-24" frameY="-78" frameWidth="1000" frameHeight="600" />
+<SubTexture name="40000" x="0" y="362" width="588" height="190" frameX="-24" frameY="-78" frameWidth="1000" frameHeight="600" />
+<SubTexture name="50000" x="0" y="552" width="769" height="190" frameX="-24" frameY="-78" frameWidth="1000" frameHeight="600" />
+<SubTexture name="60000" x="0" y="742" width="769" height="266" frameX="-24" frameY="-78" frameWidth="1000" frameHeight="600" />
+<SubTexture name="70000" x="0" y="1008" width="906" height="266" frameX="-24" frameY="-78" frameWidth="1000" frameHeight="600" />
+<SubTexture name="80000" x="0" y="1274" width="950" height="341" frameX="-24" frameY="-78" frameWidth="1000" frameHeight="600" />
+</TextureAtlas>

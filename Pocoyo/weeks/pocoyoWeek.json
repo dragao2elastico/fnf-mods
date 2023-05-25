@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Pocoyo", "pocoyo", [191, 141, 104]],
+		["PocoBlitz", "pocoyo", [191, 141, 104]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "pocoyo",
+
+	"storyName": "Pocoyo",
+	"weekBefore": "week6",
+	"weekName": "Pocoyo!!!",
+	"difficulties": "Pocoyo",
+	"hideFreeplay": false,
+	"startUnlocked": true,
+	"hideStoryMode": false
+}

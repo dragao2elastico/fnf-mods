@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BothBG.png">
+<SubTexture name="line0000" x="0" y="0" width="1406" height="808" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="line0001" x="1406" y="0" width="1406" height="808" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="line0002" x="0" y="808" width="1406" height="808" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="line0003" x="1406" y="808" width="1406" height="808" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="line0004" x="0" y="1616" width="1406" height="808" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="line0005" x="1406" y="1616" width="1406" height="808" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="line0006" x="0" y="2424" width="1406" height="808" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+</TextureAtlas>

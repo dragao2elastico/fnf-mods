@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"real sleep",
+			"icon",
+			[
+				0,
+				33,
+				75
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "RS",
+	"difficulties": "local, potatodevice",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

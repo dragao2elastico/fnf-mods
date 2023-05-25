@@ -1,0 +1,59 @@
+{
+	"storyName": "Mid-Fight-Masses",
+	"difficulties": "Hard, OG",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Parish",
+			"sarvente",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Worship",
+			"sarvente",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Zavodila",
+			"ruv",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Gospel",
+			"demonsarv",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"gf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Mid-Fight-Masses"
+}

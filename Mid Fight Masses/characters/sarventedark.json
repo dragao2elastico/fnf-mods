@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				396,
+				-90
+			],
+			"loop": false,
+			"fps": 60,
+			"anim": "idle",
+			"indices": [],
+			"name": "SarvDarkIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				-90
+			],
+			"anim": "singDOWN-alt",
+			"fps": 40,
+			"name": "SarvDarkDown2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				-90
+			],
+			"anim": "singUP-alt",
+			"fps": 40,
+			"name": "SarvDarkUp2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				355,
+				-90
+			],
+			"anim": "singRIGHT",
+			"fps": 40,
+			"name": "SarvDarkRight0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				-90
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 40,
+			"name": "SarvDarkRight2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				-90
+			],
+			"anim": "singUP",
+			"fps": 40,
+			"name": "SarvDarkUp0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				380,
+				-90
+			],
+			"loop": false,
+			"fps": 40,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "SarvDarkLeft2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				391,
+				-90
+			],
+			"anim": "singLEFT",
+			"fps": 40,
+			"name": "SarvDarkLeft0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 40,
+			"name": "SarvDarkDown0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sarvente_dark",
+	"position": [
+		-70,
+		270
+	],
+	"healthicon": "sarvente",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		145,
+		197
+	],
+	"camera_position": [
+		-340,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

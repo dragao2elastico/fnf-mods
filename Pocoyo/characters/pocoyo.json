@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-145,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pocoyo left"
+		},
+		{
+			"offsets": [
+				-184,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pocoyo down"
+		},
+		{
+			"offsets": [
+				-156,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pocoyo up"
+		},
+		{
+			"offsets": [
+				-181,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pocoyo right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-116,
+				73
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pocoyo idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/POCOYO",
+	"position": [
+		-60,
+		410
+	],
+	"healthicon": "pocoyo",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		70,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

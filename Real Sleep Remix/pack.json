@@ -1,0 +1,7 @@
+{
+	"name": "Real Sleep Z Mixed",
+	"description": "A (fanmade) Real Sleep Remix week!",
+	"restart":false,
+	"runsGlobally":false,
+	"color": [0, 0, 255]
+}

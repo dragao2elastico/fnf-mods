@@ -1,0 +1,5 @@
+	<SubTexture name="SarvHappy00" x="105" y="10" width="276" height="285"/>
+	<SubTexture name="SarvSad00" x="422" y="11" width="276" height="285"/>
+	<SubTexture name="SarvUpset00" x="790" y="8" width="281" height="287"/>
+	<SubTexture name="SarvAngery00" x="1153" y="8" width="281" height="287"/>
+	<SubTexture name="SarvSmile00" x="1489" y="13" width="276" height="285"/>

@@ -1,0 +1,32 @@
+{
+	"storyName": "The Nothing World",
+	"difficulties": "Hard, Og, April Fools",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week0",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Casanova",
+			"selever",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"gf",
+		"bf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "The Nothing World"
+}
