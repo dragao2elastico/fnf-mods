@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="awezBLOODferaliagatr.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Scene20000" x="0" y="0" width="1249" height="678" frameX="-91" frameY="-63" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20001" x="1249" y="0" width="1249" height="678" frameX="-91" frameY="-63" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20002" x="2498" y="0" width="1249" height="678" frameX="-91" frameY="-63" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20003" x="0" y="678" width="1249" height="678" frameX="-91" frameY="-63" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20004" x="0" y="678" width="1249" height="678" frameX="-91" frameY="-63" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20005" x="1249" y="678" width="1249" height="678" frameX="-91" frameY="-63" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20006" x="2498" y="678" width="1249" height="685" frameX="-91" frameY="-63" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20007" x="0" y="1363" width="1302" height="719" frameX="-38" frameY="-23" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20008" x="1302" y="1363" width="1340" height="742" frameX="0" frameY="0" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20009" x="2642" y="1363" width="1249" height="678" frameX="-91" frameY="-63" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20010" x="0" y="2105" width="1249" height="683" frameX="-91" frameY="-63" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20011" x="1249" y="2105" width="1249" height="684" frameX="-91" frameY="-63" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20012" x="1249" y="2105" width="1249" height="684" frameX="-91" frameY="-63" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20013" x="2498" y="2105" width="1249" height="687" frameX="-91" frameY="-58" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20014" x="2498" y="2105" width="1249" height="687" frameX="-91" frameY="-58" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20015" x="2498" y="2105" width="1249" height="687" frameX="-91" frameY="-58" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20016" x="2498" y="2105" width="1249" height="687" frameX="-91" frameY="-58" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20017" x="2498" y="2105" width="1249" height="687" frameX="-91" frameY="-58" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20018" x="2498" y="2105" width="1249" height="687" frameX="-91" frameY="-58" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20019" x="2498" y="2105" width="1249" height="687" frameX="-91" frameY="-58" frameWidth="1340" frameHeight="748"/>
+	<SubTexture name="Scene20020" x="2498" y="2105" width="1249" height="687" frameX="-91" frameY="-58" frameWidth="1340" frameHeight="748"/>
+</TextureAtlas>

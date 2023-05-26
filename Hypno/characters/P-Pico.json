@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-45,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pico Idle dance"
+		},
+		{
+			"offsets": [
+				-60,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PICO LEFT"
+		},
+		{
+			"offsets": [
+				65,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PICO DOWN"
+		},
+		{
+			"offsets": [
+				-62,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PICO UP"
+		},
+		{
+			"offsets": [
+				-74,
+				68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PICO RIGHT"
+		},
+		{
+			"offsets": [
+				-74,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "pico right miss"
+		},
+		{
+			"offsets": [
+				-64,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico miss up"
+		},
+		{
+			"offsets": [
+				63,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "pico miss down"
+		},
+		{
+			"offsets": [
+				-65,
+				104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "pico miss left"
+		},
+		{
+			"offsets": [
+				-67,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "PicoTurn",
+			"indices": [],
+			"name": "Pico Turn"
+		},
+		{
+			"offsets": [
+				-45,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Knife Out",
+			"indices": [],
+			"name": "Knife out"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/purin/Full_pico_purin",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		100,
+		0
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

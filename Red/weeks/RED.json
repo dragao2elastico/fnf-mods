@@ -1,0 +1,32 @@
+{
+	"storyName": "red",
+	"difficulties": "hard,hell",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"isotope",
+			"glitchy-red",
+			[
+				135,
+				0,
+				33
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}

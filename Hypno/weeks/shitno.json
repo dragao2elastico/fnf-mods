@@ -1,0 +1,41 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard,hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"shinto",
+			"shinto",
+			[
+				255,
+				215,
+				75
+			]
+		],
+		[
+			"shitno",
+			"shitno",
+			[
+				175,
+				135,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

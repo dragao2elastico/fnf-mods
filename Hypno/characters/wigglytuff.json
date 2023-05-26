@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "wigglytuff idle"
+		},
+		{
+			"offsets": [
+				-4,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "wigglytuff left"
+		},
+		{
+			"offsets": [
+				-4,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "wigglytuff up"
+		},
+		{
+			"offsets": [
+				-56,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "wigglytuff down"
+		},
+		{
+			"offsets": [
+				-4,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "wigglytuff right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wiggles_glitchy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		40,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

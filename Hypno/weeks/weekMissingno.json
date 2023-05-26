@@ -1,0 +1,41 @@
+{
+	"storyName": "Pokemon MissingNo",
+	"difficulties": "hard,hell",
+	"hideFreeplay": false,
+	"weekBackground": "Miss",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"missingno",
+			"missingno",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"brimstone",
+			"buried",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

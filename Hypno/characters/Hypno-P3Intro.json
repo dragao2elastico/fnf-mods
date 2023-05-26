@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				150
+			],
+			"anim": "PopUp",
+			"fps": 24,
+			"name": "Entrance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/hypno/ABOMINATION_HYPNO_ENTRANCE",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hypno3",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		200,
+		0
+	],
+	"camera_position": [
+		-600,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

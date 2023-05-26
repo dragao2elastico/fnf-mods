@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				270,
+				304
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Hypno2 Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				272,
+				451
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Hypno Up Finished",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				279,
+				149
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Hypno Right Finished",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				343,
+				198
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Hypno Left final",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				287,
+				-75
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Hypno Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hypno/Hypno Phase 2 Sheet",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hypno2",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		200,
+		0
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

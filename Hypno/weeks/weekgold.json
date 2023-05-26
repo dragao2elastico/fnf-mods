@@ -1,0 +1,50 @@
+{
+	"storyName": "Lost Silver",
+	"difficulties": "hard, hell",
+	"hideFreeplay": false,
+	"weekBackground": "gold",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"frostbite",
+			"red",
+			[
+				80,
+				0,
+				0
+			]
+		],
+		[
+			"insomnia",
+			"silver",
+			[
+				0,
+				60,
+				60
+			]
+		],
+		[
+			"monochrome",
+			"gold",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Silver"
+}

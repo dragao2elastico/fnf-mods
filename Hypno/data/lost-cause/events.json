@@ -1,0 +1,71 @@
+{
+	"song": {
+		"events": [
+			[
+				26823.5294117647,
+				[
+					[
+						"Play Animation",
+						"PopUp",
+						"dad"
+					]
+				]
+			],
+			[
+				28147.0588235294,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Hypno-P3"
+					]
+				]
+			],
+			[
+				28235.2941176471,
+				[
+					[
+						"Enable Pendulum",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29647.0588235294,
+				[
+					[
+						"Play Animation",
+						"Drop",
+						"bf"
+					]
+				]
+			],
+			[
+				31764.7058823529,
+				[
+					[
+						"Change Character",
+						"bf",
+						"gfhypno2"
+					]
+				]
+			],
+			[
+				187764.705882353,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Hypno-P3end"
+					],
+					[
+						"Play Animation",
+						"end",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

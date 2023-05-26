@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HellBell.png">
+<SubTexture name=" twerk_sexi0000" x="631" y="270" width="282" height="261" frameX="-15" frameY="-20" frameWidth="404" frameHeight="310" />
+<SubTexture name=" twerk_sexi0001" x="631" y="0" width="292" height="270" frameX="-15" frameY="-17" frameWidth="404" frameHeight="310" />
+<SubTexture name=" twerk_sexi0002" x="0" y="282" width="306" height="276" frameX="-21" frameY="-10" frameWidth="404" frameHeight="310" />
+<SubTexture name=" twerk_sexi0003" x="0" y="0" width="314" height="282" frameX="-18" frameY="-8" frameWidth="404" frameHeight="310" />
+<SubTexture name=" twerk_sexi0004" x="278" y="817" width="274" height="239" frameX="-66" frameY="-24" frameWidth="404" frameHeight="310" />
+<SubTexture name=" twerk_sexi0005" x="923" y="500" width="274" height="245" frameX="-77" frameY="-22" frameWidth="404" frameHeight="310" />
+<SubTexture name=" twerk_sexi0006" x="923" y="253" width="276" height="247" frameX="-82" frameY="-22" frameWidth="404" frameHeight="310" />
+<SubTexture name=" twerk_sexi0007" x="0" y="817" width="278" height="248" frameX="-85" frameY="-22" frameWidth="404" frameHeight="310" />
+<SubTexture name=" twerk_sexi0008" x="280" y="558" width="291" height="258" frameX="-72" frameY="-18" frameWidth="404" frameHeight="310" />
+<SubTexture name=" twerk_sexi0009" x="306" y="282" width="305" height="273" frameX="-63" frameY="-14" frameWidth="404" frameHeight="310" />
+<SubTexture name=" twerk_sexi0010" x="314" y="0" width="317" height="279" frameX="-24" frameY="-11" frameWidth="404" frameHeight="310" />
+<SubTexture name=" twerk_sexi0011" x="923" y="0" width="277" height="253" frameX="-36" frameY="-22" frameWidth="404" frameHeight="310" />
+<SubTexture name=" twerk_sexi0012" x="571" y="558" width="280" height="258" frameX="-22" frameY="-21" frameWidth="404" frameHeight="310" />
+<SubTexture name=" twerk_sexi0013" x="0" y="558" width="280" height="259" frameX="-18" frameY="-21" frameWidth="404" frameHeight="310" />
+</TextureAtlas>

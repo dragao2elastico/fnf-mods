@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				11
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jigglypuff idle main",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				45
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jigglyleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jigglydown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				58
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jigglyup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				38
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jigglyright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				15
+			],
+			"anim": "sing",
+			"fps": 24,
+			"name": "jigglysing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				13
+			],
+			"anim": "turn",
+			"fps": 24,
+			"name": "jigglyturn",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/purin/jigglyassets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Jigglypuff",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		240,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

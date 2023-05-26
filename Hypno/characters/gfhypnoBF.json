@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GF_SHAKING_BF_she_is_like_real_hot_tho_because_she_is_lullaby_girlfriend",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-34
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down_GF_SHAKING_BF_she_is_like_real_hot_tho_because",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-26
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left_GF_SHAKING_BF_she_is_like_real_hot_tho_because",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				-19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right_GF_SHAKING_BF_she_is_like_real_hot_tho_because",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up_GF_SHAKING_BF_she_is_like_real_hot_tho_because",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-35
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down_GF_SHAKING_BF_she_is_like_real_hot_tho_because_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left_GF_SHAKING_BF_she_is_like_real_hot_tho_because_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-20
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right_GF_SHAKING_BF_she_is_like_real_hot_tho_because_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				14
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up_GF_SHAKING_BF_she_is_like_real_hot_tho_because_miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Drop",
+			"loop": false,
+			"name": "GF_SHAKING_BF_drop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf/phase_3",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		0,
+		60
+	],
+	"camera_position": [
+		150,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

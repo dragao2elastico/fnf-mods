@@ -1,0 +1,81 @@
+{
+	"song": {
+		"events": [
+			[
+				60000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"P-Pico"
+					],
+					[
+						"Play Animation",
+						"Knife Out",
+						"bf"
+					]
+				]
+			],
+			[
+				126666.666666666,
+				[
+					[
+						"Play Animation",
+						"PicoTurn",
+						"bf"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Play Animation",
+						"turn",
+						"dad"
+					]
+				]
+			],
+			[
+				128666.666666666,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Jigglypuff2"
+					]
+				]
+			],
+			[
+				128670.138888889,
+				[
+					[
+						"Camera Follow Pos",
+						"350",
+						"870"
+					]
+				]
+			],
+			[
+				151333.333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Jigglypuff1"
+					]
+				]
+			],
+			[
+				151916.666666667,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

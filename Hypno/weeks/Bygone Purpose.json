@@ -1,0 +1,26 @@
+{
+	"storyName": "bygone purpose",
+	"difficulties": "Hard,hell",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"bygone purpose",
+			"smallH",
+			[
+				200,
+				180,
+				0
+			]
+		]
+	],
+	"weekName": ""
+}

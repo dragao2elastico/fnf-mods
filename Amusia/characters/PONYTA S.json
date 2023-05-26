@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "PONYTA SCARED IDLE"
+		},
+		{
+			"offsets": [
+				-17,
+				-36
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "PONYTA SCARED DOWN0"
+		},
+		{
+			"offsets": [
+				-31,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "PONYTA SCARED UP0"
+		},
+		{
+			"offsets": [
+				-1,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "PONYTA SCARED LEFT0"
+		},
+		{
+			"offsets": [
+				-6,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "PONYTA SCARED LEFT MISS"
+		},
+		{
+			"offsets": [
+				-14,
+				-37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "PONYTA SCARED DOWN MISS"
+		},
+		{
+			"offsets": [
+				8,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "PONYTA SCARED RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-33,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "PONYTA SCARED UP MISS"
+		},
+		{
+			"offsets": [
+				9,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "PONYTA SCARED RIGHT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ponyta_Scared",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

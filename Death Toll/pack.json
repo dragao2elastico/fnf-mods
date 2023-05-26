@@ -1,0 +1,7 @@
+{
+	"name": "Death Toll Recreation",
+	"description": "el señor de la nochee",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}

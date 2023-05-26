@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				-54
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "STARE idle"
+		},
+		{
+			"offsets": [
+				-14,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "STARE right"
+		},
+		{
+			"offsets": [
+				50,
+				-102
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "STARE down"
+		},
+		{
+			"offsets": [
+				174,
+				-48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "STARE left"
+		},
+		{
+			"offsets": [
+				0,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "STARE up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wiggles_glitchy",
+	"position": [
+		17,
+		410
+	],
+	"healthicon": "icon-wig4",
+	"flip_x": false,
+	"healthbar_colors": [
+		84,
+		47,
+		55
+	],
+	"camera_position": [
+		20,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

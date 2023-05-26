@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				119,
+				186
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ContractIdle"
+		},
+		{
+			"offsets": [
+				119,
+				186
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Cunt",
+			"loop": false,
+			"name": "Contract_BF_"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/beelze/ContractBF",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		36,
+		89
+	],
+	"camera_position": [
+		-600,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

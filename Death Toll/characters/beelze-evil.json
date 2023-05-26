@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				98,
+				30
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "idle",
+			"indices": [],
+			"name": " idle"
+		},
+		{
+			"offsets": [
+				142,
+				32
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singUP",
+			"indices": [],
+			"name": " up"
+		},
+		{
+			"offsets": [
+				130,
+				13
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": " down"
+		},
+		{
+			"offsets": [
+				180,
+				23
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": " left"
+		},
+		{
+			"offsets": [
+				71,
+				23
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": " right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/beelze_ooscaryface",
+	"position": [
+		60,
+		70
+	],
+	"healthicon": "beelze",
+	"flip_x": false,
+	"healthbar_colors": [
+		126,
+		93,
+		145
+	],
+	"camera_position": [
+		-450,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

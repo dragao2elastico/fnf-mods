@@ -1,0 +1,9 @@
+put in a value 1, if health - that value is less (if equal, 
+no dice) then 0, the player dies. Half health is 1, if you
+wanna cut the life bar in health, do like 1.001 or smthn.
+
+Place on every tile you want it to be active on, just make
+a section full of the event and only it and copy and paste
+it to every section it affects.
+
+

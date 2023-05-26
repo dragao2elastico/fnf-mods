@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "WigglesTerrorU"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "WigglesTerrorLeft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "WigglesTerrorIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-65,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "WiglesTerrorRight0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				-28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "WigglesTerrorDown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WigglesTerrorUneashed",
+	"position": [
+		200,
+		20
+	],
+	"healthicon": "icon-wig4",
+	"flip_x": false,
+	"healthbar_colors": [
+		84,
+		47,
+		55
+	],
+	"camera_position": [
+		-380,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

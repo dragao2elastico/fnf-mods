@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="reflejo.png">
+<SubTexture name=" animacion0000" x="0" y="163" width="197" height="73" frameX="0" frameY="0" frameWidth="197" frameHeight="73" />
+<SubTexture name=" animacion0001" x="200" y="0" width="198" height="80" frameX="0" frameY="0" frameWidth="198" frameHeight="80" />
+<SubTexture name=" animacion0002" x="0" y="0" width="200" height="82" frameX="0" frameY="0" frameWidth="200" frameHeight="82" />
+<SubTexture name=" animacion0003" x="0" y="82" width="197" height="81" frameX="0" frameY="0" frameWidth="197" frameHeight="81" />
+<SubTexture name=" animacion0004" x="200" y="80" width="197" height="75" frameX="0" frameY="0" frameWidth="197" frameHeight="75" />
+</TextureAtlas>

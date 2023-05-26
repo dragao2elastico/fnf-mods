@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dawn_By_HyperLeo.png">
+<SubTexture name=" down0000" x="0" y="859" width="257" height="260" frameX="-6" frameY="-6" frameWidth="267" frameHeight="268" />
+<SubTexture name=" down0001" x="257" y="859" width="257" height="260" frameX="-6" frameY="-4" frameWidth="267" frameHeight="268" />
+<SubTexture name=" idle0000" x="485" y="577" width="248" height="281" frameX="-5" frameY="-8" frameWidth="258" frameHeight="291" />
+<SubTexture name=" idle0001" x="0" y="294" width="249" height="283" frameX="-4" frameY="-7" frameWidth="258" frameHeight="291" />
+<SubTexture name=" idle0002" x="981" y="0" width="250" height="281" frameX="-4" frameY="-9" frameWidth="258" frameHeight="291" />
+<SubTexture name=" idle0003" x="981" y="281" width="249" height="281" frameX="-5" frameY="-8" frameWidth="258" frameHeight="291" />
+<SubTexture name=" left0000" x="249" y="294" width="253" height="282" frameX="0" frameY="0" frameWidth="259" frameHeight="282" />
+<SubTexture name=" left0001" x="730" y="0" width="251" height="282" frameX="-1" frameY="0" frameWidth="259" frameHeight="282" />
+<SubTexture name=" up0000" x="0" y="0" width="243" height="294" frameX="-6" frameY="-3" frameWidth="252" frameHeight="298" />
+<SubTexture name=" up0001" x="486" y="0" width="244" height="289" frameX="-5" frameY="-7" frameWidth="252" frameHeight="298" />
+<SubTexture name=" up0002" x="243" y="0" width="243" height="289" frameX="-5" frameY="-7" frameWidth="252" frameHeight="298" />
+<SubTexture name=" right0000" x="243" y="577" width="242" height="282" frameX="-14" frameY="-8" frameWidth="259" frameHeight="291" />
+<SubTexture name=" right0001" x="0" y="577" width="243" height="282" frameX="-13" frameY="-8" frameWidth="259" frameHeight="291" />
+<SubTexture name=" right0002" x="730" y="282" width="243" height="282" frameX="-14" frameY="-8" frameWidth="259" frameHeight="291" />
+</TextureAtlas>

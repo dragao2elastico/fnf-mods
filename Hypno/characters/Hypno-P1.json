@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Hypno Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				610,
+				124
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Hypno Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				316,
+				380
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Hypno Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				182
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Hypno Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				269,
+				-41
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Final Hypno Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				85,
+				127
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "psy",
+			"loop": false,
+			"name": "Psyshock Full"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hypno/Hypno Phase 1 Sheet",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hypno",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		200,
+		0
+	],
+	"camera_position": [
+		-100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

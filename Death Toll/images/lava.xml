@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lava.png">
+<SubTexture name="lavita0000" x="0" y="0" width="1024" height="212" frameX="-6" frameY="-71" frameWidth="1034" frameHeight="224" />
+<SubTexture name="lavita0001" x="1024" y="0" width="1026" height="212" frameX="-5" frameY="-71" frameWidth="1034" frameHeight="224" />
+<SubTexture name="lavita0002" x="1025" y="212" width="1024" height="211" frameX="-6" frameY="-72" frameWidth="1034" frameHeight="224" />
+<SubTexture name="lavita0003" x="0" y="424" width="1025" height="211" frameX="-6" frameY="-72" frameWidth="1034" frameHeight="224" />
+<SubTexture name="lavita0004" x="0" y="212" width="1025" height="212" frameX="-6" frameY="-71" frameWidth="1034" frameHeight="224" />
+</TextureAtlas>

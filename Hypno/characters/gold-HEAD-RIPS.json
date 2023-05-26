@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				127
+			],
+			"anim": "HEAD RIPS",
+			"fps": 24,
+			"name": "Head rips_OneLayer",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gold/GOLD_HEAD_RIPPING_OFF",
+	"position": [
+		-10,
+		0
+	],
+	"healthicon": "Gold",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-295,
+		-145
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

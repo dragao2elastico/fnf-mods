@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="beelze_normal.png">
+<SubTexture name=" down0000" x="789" y="1526" width="183" height="292" frameX="-4" frameY="-11" frameWidth="193" frameHeight="305" />
+<SubTexture name=" down0001" x="430" y="1526" width="181" height="296" frameX="-6" frameY="-7" frameWidth="193" frameHeight="305" />
+<SubTexture name=" down0002" x="611" y="1526" width="178" height="296" frameX="-8" frameY="-7" frameWidth="193" frameHeight="305" />
+<SubTexture name=" idle0000" x="1758" y="908" width="144" height="301" frameX="-10" frameY="-10" frameWidth="166" frameHeight="313" />
+<SubTexture name=" idle0001" x="1500" y="1153" width="141" height="303" frameX="-11" frameY="-8" frameWidth="166" frameHeight="313" />
+<SubTexture name=" idle0002" x="1222" y="1153" width="139" height="306" frameX="-12" frameY="-5" frameWidth="166" frameHeight="313" />
+<SubTexture name=" idle0003" x="1083" y="1153" width="139" height="307" frameX="-13" frameY="-4" frameWidth="166" frameHeight="313" />
+<SubTexture name=" idle0004" x="1361" y="1153" width="139" height="306" frameX="-13" frameY="-4" frameWidth="166" frameHeight="313" />
+<SubTexture name=" left0000" x="210" y="1526" width="220" height="301" frameX="-9" frameY="-7" frameWidth="232" frameHeight="311" />
+<SubTexture name=" left0001" x="0" y="1526" width="210" height="302" frameX="-18" frameY="-6" frameWidth="232" frameHeight="311" />
+<SubTexture name=" left0002" x="1758" y="0" width="208" height="303" frameX="-21" frameY="-5" frameWidth="232" frameHeight="311" />
+<SubTexture name=" right0000" x="1758" y="1209" width="134" height="299" frameX="-3" frameY="-10" frameWidth="153" frameHeight="312" />
+<SubTexture name=" right0001" x="1758" y="606" width="130" height="302" frameX="-3" frameY="-7" frameWidth="153" frameHeight="312" />
+<SubTexture name=" right0002" x="1758" y="303" width="130" height="303" frameX="-3" frameY="-6" frameWidth="153" frameHeight="312" />
+<SubTexture name=" up0000" x="423" y="1153" width="177" height="314" frameX="-6" frameY="-5" frameWidth="191" frameHeight="322" />
+<SubTexture name=" up0001" x="726" y="1153" width="178" height="311" frameX="-7" frameY="-8" frameWidth="191" frameHeight="322" />
+<SubTexture name=" up0002" x="904" y="1153" width="179" height="310" frameX="-7" frameY="-9" frameWidth="191" frameHeight="322" />
+<SubTexture name=" ani20000" x="219" y="0" width="173" height="384" frameX="-115" frameY="-19" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20001" x="0" y="392" width="173" height="382" frameX="-115" frameY="-21" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20002" x="1471" y="743" width="175" height="367" frameX="-114" frameY="-36" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20003" x="1188" y="740" width="174" height="365" frameX="-115" frameY="-38" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20004" x="608" y="392" width="175" height="365" frameX="-115" frameY="-38" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20005" x="1188" y="374" width="175" height="366" frameX="-115" frameY="-37" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20006" x="439" y="774" width="200" height="376" frameX="-90" frameY="-27" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20007" x="0" y="0" width="219" height="392" frameX="-71" frameY="-10" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20008" x="173" y="392" width="217" height="381" frameX="-71" frameY="-22" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20009" x="221" y="774" width="218" height="378" frameX="-71" frameY="-24" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20010" x="392" y="0" width="221" height="384" frameX="-69" frameY="-19" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20011" x="390" y="392" width="218" height="381" frameX="-71" frameY="-21" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20012" x="786" y="0" width="218" height="381" frameX="-71" frameY="-21" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20013" x="0" y="774" width="221" height="379" frameX="-71" frameY="-23" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20014" x="1471" y="373" width="278" height="370" frameX="-17" frameY="-33" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20015" x="1471" y="0" width="287" height="373" frameX="-6" frameY="-30" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20016" x="0" y="1153" width="289" height="373" frameX="-4" frameY="-30" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20017" x="639" y="774" width="287" height="375" frameX="-6" frameY="-28" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani20018" x="1188" y="0" width="283" height="374" frameX="-11" frameY="-28" frameWidth="303" frameHeight="406" />
+<SubTexture name=" ani10000" x="600" y="1153" width="126" height="313" frameX="-96" frameY="-23" frameWidth="233" frameHeight="407" />
+<SubTexture name=" ani10001" x="289" y="1153" width="134" height="315" frameX="-93" frameY="-21" frameWidth="233" frameHeight="407" />
+<SubTexture name=" ani10002" x="926" y="774" width="172" height="333" frameX="-60" frameY="-32" frameWidth="233" frameHeight="407" />
+<SubTexture name=" ani10003" x="1004" y="0" width="184" height="380" frameX="-27" frameY="-7" frameWidth="233" frameHeight="407" />
+<SubTexture name=" ani10004" x="1004" y="380" width="161" height="380" frameX="-24" frameY="-7" frameWidth="233" frameHeight="407" />
+<SubTexture name=" ani10005" x="786" y="381" width="169" height="381" frameX="-22" frameY="-7" frameWidth="233" frameHeight="407" />
+<SubTexture name=" ani10006" x="613" y="0" width="173" height="384" frameX="-21" frameY="-7" frameWidth="233" frameHeight="407" />
+</TextureAtlas>

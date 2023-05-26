@@ -1,0 +1,50 @@
+{
+	"storyName": "Hypno's lullaby",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "Hypno",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Safety lullaby",
+			"hypno",
+			[
+				120,
+				120,
+				0
+			]
+		],
+		[
+			"left unchecked",
+			"hypno2",
+			[
+				100,
+				100,
+				0
+			]
+		],
+		[
+			"lost cause",
+			"hypno3",
+			[
+				60,
+				60,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "hypno's lullaby",
+	"hiddenUntilUnlocked": false
+}

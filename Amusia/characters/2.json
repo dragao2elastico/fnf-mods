@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DECAY 2 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DECAY 2 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DECAY 2 right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DECAY 2 up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				-8
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DECAY 2 idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/wiggles_glitchy",
+	"position": [
+		70,
+		466
+	],
+	"healthicon": "icon-wig3",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		56,
+		66
+	],
+	"camera_position": [
+		-30,
+		-186
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

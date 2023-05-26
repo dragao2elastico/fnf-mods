@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf_hell_bel_hyperlio_archive.png">
+<SubTexture name="DawnBF DOWN NOTE normal0000" x="457" y="847" width="223" height="261" frameX="0" frameY="-2" frameWidth="224" frameHeight="266" />
+<SubTexture name="DawnBF DOWN NOTE normal0001" x="1072" y="549" width="222" height="264" frameX="-2" frameY="0" frameWidth="224" frameHeight="266" />
+<SubTexture name="DawnBF DOWN NOTE normal0002" x="236" y="847" width="221" height="264" frameX="-3" frameY="0" frameWidth="224" frameHeight="266" />
+<SubTexture name="DawnBF Idle Dance0000" x="0" y="572" width="223" height="275" frameX="-4" frameY="0" frameWidth="227" frameHeight="277" />
+<SubTexture name="DawnBF Idle Dance0001" x="223" y="572" width="224" height="275" frameX="-3" frameY="-1" frameWidth="227" frameHeight="277" />
+<SubTexture name="DawnBF Idle Dance0002" x="447" y="572" width="224" height="275" frameX="-3" frameY="-1" frameWidth="227" frameHeight="277" />
+<SubTexture name="DawnBF Idle Dance0003" x="847" y="0" width="225" height="275" frameX="-1" frameY="-1" frameWidth="227" frameHeight="277" />
+<SubTexture name="DawnBF Idle Dance0004" x="847" y="275" width="225" height="275" frameX="-1" frameY="-1" frameWidth="227" frameHeight="277" />
+<SubTexture name="DawnBF Idle Dance0005" x="847" y="550" width="224" height="275" frameX="-2" frameY="-1" frameWidth="227" frameHeight="277" />
+<SubTexture name="DawnBF LEFT NOTE0000" x="0" y="296" width="212" height="276" frameX="0" frameY="0" frameWidth="214" frameHeight="277" />
+<SubTexture name="DawnBF LEFT NOTE0001" x="212" y="296" width="213" height="276" frameX="-1" frameY="0" frameWidth="214" frameHeight="277" />
+<SubTexture name="DawnBF LEFT NOTE0002" x="634" y="0" width="213" height="276" frameX="-1" frameY="0" frameWidth="214" frameHeight="277" />
+<SubTexture name="DawnBF RIGHT NOTE0000" x="1072" y="0" width="235" height="275" frameX="-2" frameY="0" frameWidth="238" frameHeight="276" />
+<SubTexture name="DawnBF RIGHT NOTE0001" x="0" y="847" width="236" height="274" frameX="0" frameY="-1" frameWidth="238" frameHeight="276" />
+<SubTexture name="DawnBF RIGHT NOTE0002" x="1072" y="275" width="235" height="274" frameX="0" frameY="-1" frameWidth="238" frameHeight="276" />
+<SubTexture name="DawnBF UP NOTE0000" x="0" y="0" width="211" height="296" frameX="-2" frameY="0" frameWidth="213" frameHeight="296" />
+<SubTexture name="DawnBF UP NOTE0001" x="211" y="0" width="211" height="294" frameX="-1" frameY="-2" frameWidth="213" frameHeight="296" />
+<SubTexture name="DawnBF UP NOTE0002" x="422" y="0" width="212" height="293" frameX="0" frameY="-3" frameWidth="213" frameHeight="296" />
+</TextureAtlas>

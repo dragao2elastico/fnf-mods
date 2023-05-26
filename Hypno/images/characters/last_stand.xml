@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="last_stand.png">
+<SubTexture name="Lullaby_GF_Idle_0000" x="1196" y="0" width="229" height="390" frameX="-1" frameY="-6" frameWidth="231" frameHeight="397" />
+<SubTexture name="Lullaby_GF_Idle_0001" x="1196" y="0" width="229" height="390" frameX="-1" frameY="-6" frameWidth="231" frameHeight="397" />
+<SubTexture name="Lullaby_GF_Idle_0002" x="665" y="411" width="224" height="392" frameX="-2" frameY="-4" frameWidth="231" frameHeight="397" />
+<SubTexture name="Lullaby_GF_Idle_0003" x="665" y="411" width="224" height="392" frameX="-2" frameY="-4" frameWidth="231" frameHeight="397" />
+<SubTexture name="Lullaby_GF_Idle_0004" x="442" y="411" width="223" height="394" frameX="-1" frameY="-2" frameWidth="231" frameHeight="397" />
+<SubTexture name="Lullaby_GF_Idle_0005" x="442" y="411" width="223" height="394" frameX="-1" frameY="-2" frameWidth="231" frameHeight="397" />
+<SubTexture name="Lullaby_GF_Idle_0006" x="220" y="411" width="222" height="396" frameX="0" frameY="-1" frameWidth="231" frameHeight="397" />
+<SubTexture name="Lullaby_GF_down0000" x="236" y="808" width="236" height="376" frameX="0" frameY="-6" frameWidth="241" frameHeight="384" />
+<SubTexture name="Lullaby_GF_down0001" x="0" y="808" width="236" height="379" frameX="-1" frameY="-4" frameWidth="241" frameHeight="384" />
+<SubTexture name="Lullaby_GF_left0000" x="909" y="392" width="285" height="391" frameX="0" frameY="-1" frameWidth="290" frameHeight="392" />
+<SubTexture name="Lullaby_GF_left0001" x="909" y="0" width="287" height="392" frameX="-3" frameY="0" frameWidth="290" frameHeight="392" />
+<SubTexture name="Lullaby_GF_right0000" x="667" y="0" width="242" height="397" frameX="0" frameY="-1" frameWidth="244" frameHeight="398" />
+<SubTexture name="Lullaby_GF_right0001" x="0" y="411" width="220" height="397" frameX="-23" frameY="-1" frameWidth="244" frameHeight="398" />
+<SubTexture name="Lullaby_GF_up0000" x="0" y="0" width="333" height="411" frameX="-4" frameY="0" frameWidth="338" frameHeight="411" />
+<SubTexture name="Lullaby_GF_up0001" x="333" y="0" width="334" height="407" frameX="0" frameY="-3" frameWidth="338" frameHeight="411" />
+</TextureAtlas>

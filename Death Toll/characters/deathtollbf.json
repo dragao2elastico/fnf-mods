@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-291,
+				-121
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "DawnBF RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-291,
+				-101
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "DawnBF UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-282,
+				-132
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "DawnBF DOWN NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-277,
+				-120
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "DawnBF LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-283,
+				-120
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "DawnBF Idle Dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_By_Hyperlio",
+	"position": [
+		-190,
+		100
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-670,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

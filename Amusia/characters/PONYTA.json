@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PONYTA IDLE"
+		},
+		{
+			"offsets": [
+				-15,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PONYTA DOWN"
+		},
+		{
+			"offsets": [
+				-1,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PONYTA LEFT"
+		},
+		{
+			"offsets": [
+				-26,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PONYTA UP"
+		},
+		{
+			"offsets": [
+				12,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PONYTA RIGHT"
+		},
+		{
+			"offsets": [
+				2,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "PONYTA MISS LEFT"
+		},
+		{
+			"offsets": [
+				-21,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "PONYTA MISS DOWN"
+		},
+		{
+			"offsets": [
+				5,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "PONYTA MISS RIGHT"
+		},
+		{
+			"offsets": [
+				-28,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "PONYTA Miss UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PONYTA",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "ponyta",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		192,
+		0
+	],
+	"camera_position": [
+		110,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
