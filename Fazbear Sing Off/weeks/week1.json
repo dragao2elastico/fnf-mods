@@ -1,0 +1,41 @@
+{
+	"storyName": "Fazbear sing off",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "fazbear",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"santa-singoff",
+			"TFed",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"singularity",
+			"TFed",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week1",
+	"hiddenUntilUnlocked": false
+}

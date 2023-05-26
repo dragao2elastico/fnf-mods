@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TBonnie Dialogue.png">
+<SubTexture name="TBonnie Dialogue Talk0000" x="0" y="0" width="542" height="1076" frameX="-779" frameY="-4" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="TBonnie Dialogue Talk0001" x="0" y="0" width="542" height="1076" frameX="-779" frameY="-4" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="TBonnie Dialogue Talk0002" x="0" y="0" width="542" height="1076" frameX="-779" frameY="-4" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="TBonnie Dialogue Talk0003" x="0" y="0" width="542" height="1076" frameX="-779" frameY="-4" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

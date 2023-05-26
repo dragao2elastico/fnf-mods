@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tchicadialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Toy Bonnie Are You Finished Yet?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tchicadialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Its Been 2 Hours...."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Tbonniedialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Im Trying To Beat My Highscore..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Tbonniedialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Its Gonna Take A While So Wait Patiently"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tchicadialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Im Starting To Get Impatient."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Tbonniedialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Almost done"
+		}
+	]
+}

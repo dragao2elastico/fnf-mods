@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TChica Dialogue.png">
+<SubTexture name="TChica Dialogue idle0000" x="0" y="0" width="849" height="961" frameX="-651" frameY="-119" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="TChica Dialogue idle0001" x="0" y="0" width="849" height="961" frameX="-651" frameY="-119" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="TChica Dialogue idle0002" x="0" y="0" width="849" height="961" frameX="-651" frameY="-119" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="TChica Dialogue idle0003" x="0" y="0" width="849" height="961" frameX="-651" frameY="-119" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

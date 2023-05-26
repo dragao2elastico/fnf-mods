@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TFreddy Dialogue.png">
+<SubTexture name="TFreddy Dialogue Talk0000" x="0" y="0" width="1069" height="983" frameX="-416" frameY="-97" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="TFreddy Dialogue Talk0001" x="0" y="0" width="1069" height="983" frameX="-416" frameY="-97" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="TFreddy Dialogue Talk0002" x="0" y="0" width="1069" height="983" frameX="-416" frameY="-97" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="TFreddy Dialogue Talk0003" x="0" y="0" width="1069" height="983" frameX="-416" frameY="-97" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

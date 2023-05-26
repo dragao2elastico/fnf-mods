@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tfreddydialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I Already Told You Freddy.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tfreddydialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I Did not steal Your Pizza!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "wfreddydialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Prove It! I Wanna Know"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TFreddydialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lets Do A Rap battle Then Ill Tell You.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "WFreddydialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine By Me Then..."
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "Michael",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Meow",
+			"cat",
+			[
+				140,
+				120,
+				80
+			]
+		],
+		[
+			"rawr",
+			"cat",
+			[
+				140,
+				120,
+				80
+			]
+		],
+		[
+			"angy",
+			"angycat",
+			[
+				140,
+				120,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "catthemichael"
+}

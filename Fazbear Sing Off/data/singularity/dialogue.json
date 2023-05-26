@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "WfreddyDialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now Will You Tell Me?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tfreddydialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I...."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Tfreddydialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I Forgot Where it is.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "WFreddydialogue",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "You What?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "WFreddydialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Its Just A Pizza But Still.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TFreddydialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are We Doing Another Rap Battle?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "WFreddydialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes We Are."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Wfreddydialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No Holding Back This Time."
+		}
+	]
+}
